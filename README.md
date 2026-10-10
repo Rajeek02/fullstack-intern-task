@@ -108,8 +108,8 @@ Responses are JSON. Errors look like `{ "success": false, "message": "...", "err
 
 ## Live demo
 
-- Frontend: _add your deployed URL here_
-- Backend: _add your deployed URL here_
+- Frontend: https://templatory.vercel.app/
+- Backend API: https://templatory-api.onrender.com
 
 ## Author
 
